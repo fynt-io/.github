@@ -1,7 +1,7 @@
 # Bren 🚀
 
 ## Descrição
-BrenBren é uma plataforma que oferece uma inteligência artificial especializada para impulsionar negócios, proporcionando atendimento autônomo via WhatsApp, disparo de mensagens em massa e outras funcionalidades para acelerar as vendas.
+A Bren é uma plataforma que oferece uma inteligência artificial especializada para impulsionar negócios, proporcionando atendimento autônomo via WhatsApp, disparo de mensagens em massa e outras funcionalidades para acelerar as vendas.
 
 ## Como Funciona
 1. **WhatsApp** 📱: Escolha um novo número de WhatsApp com seu DDD fornecido pela Bren.
